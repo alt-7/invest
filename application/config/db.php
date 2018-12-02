@@ -1,9 +1,9 @@
 <?php
 
 return [
-    'host'     => 'localhost',
-    'name'     => 'invest',
-    'user'     => 'root',
-    'password' => 'password',
-    'charset'  => 'utf8',
+    'host'     => '',
+    'name'     => '',
+    'user'     => '',
+    'password' => '',
+    'charset'  => '',
 ];
